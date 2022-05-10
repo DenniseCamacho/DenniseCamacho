@@ -1,8 +1,22 @@
-### Hi there 👋
+<p align="center">
+while (practicing) {<br>
+  learning++;<br>
+  }
+</p>
+
+
 
 <!--
 **DenniseCamacho/DenniseCamacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+float length = grades.size();
+        float sum = 0;
+        int i = 0;
+        while (i < length) {
+            sum += grades.get(i);
+            i++;
+        }
+        System.out.println(length);
+        return sum/length;
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
