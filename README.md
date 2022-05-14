@@ -1,7 +1,10 @@
 <p align="center">
-while (practicing) {<br>
-  learning++;<br>
-  }
+        while (practicing) {
+            learning++;
+            if (tired) {
+                break;
+            }
+        }
 </p>
 
 
