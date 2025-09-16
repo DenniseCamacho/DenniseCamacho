@@ -1,5 +1,5 @@
-- 🌱 Always learning
-- 🎓 Pursuing my Bachelor's in Computer & Information Science
+<br>🌱 Always learning
+<br>🎓 Pursuing my Bachelor's in Computer & Information Science
 <br>*Focus: Software Development, Web Design & Development*
   
 <h2 align="left">Languages and Technologies:</h2>  
