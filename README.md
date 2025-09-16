@@ -1,7 +1,6 @@
 <p>🌱 Always learning.  
 <br>🎓 Currently pursuing a degree in UX and Web Development.  
-<br>💻 Interested in front-end, CMS development, and API integrations.</p>  
-
+  
 <h2 align="left">Languages and Technologies:</h2>  
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
