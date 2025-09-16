@@ -1,7 +1,6 @@
-<p>🌱 Always learning.  
-<br>🎓 Pursuing my Bachelor’s in Computer & Information Science,  
-with a focus on Software Development and Web Design & Development.</p>
-
+- 🌱 Always learning
+- 🎓 Pursuing my Bachelor's in Computer & Information Science *Focus: Software Development, Web Design & Development*
+  
 <h2 align="left">Languages and Technologies:</h2>  
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
