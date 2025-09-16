@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)  
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](https://www.php.net/docs.php)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://dev.mysql.com/doc/)
-[![XAMPP](https://img.shields.io/badge/XAMPP-F37623?logo=xampp&logoColor=fff)](https://www.apachefriends.org/docs.html)  
+[![XAMPP](https://img.shields.io/badge/XAMPP-F37623?logo=xampp&logoColor=fff)](https://www.apachefriends.org/index.html)  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)](https://developer.wordpress.org/)
 [![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?logo=swiper&logoColor=fff)](https://swiperjs.com/)  
