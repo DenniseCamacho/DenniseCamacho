@@ -1,6 +1,7 @@
 <br>🌱 Always learning
 <br>🎓 Pursuing my Bachelor's in Computer & Information Science
 <br>*Focus: Software Development, Web Design & Development*
+<br>Currently preparing for the Oracle Database SQL certification
   
 <h2 align="left">Languages and Technologies:</h2>  
 
