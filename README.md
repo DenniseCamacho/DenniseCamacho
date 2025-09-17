@@ -1,4 +1,4 @@
-<br>🌱 Always learning
+<br>📝 Always learning.
 <br>🎓 Pursuing my Bachelor's in Computer & Information Science
 <br>*Focus: Software Development, Web Design & Development*
 <br>Currently preparing for the Oracle Database SQL certification
@@ -29,10 +29,8 @@
 
 <br>[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](https://www.php.net/docs.php)  
   Expanding back-end development skills by practicing PHP with CRUD applications.  
-
 <br>[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)](https://developer.wordpress.org/)  
   Exploring WordPress as a CMS to understand customization, themes, and plugins.  
-
 <br>[![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=fff)](https://docs.oracle.com/en/database/oracle/oracle-database/index.html)  
   Strengthening database fundamentals while preparing for the Oracle Database SQL certification.  
 
