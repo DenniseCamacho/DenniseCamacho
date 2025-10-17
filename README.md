@@ -31,7 +31,4 @@
 Expanding skills in back-end development through PHP and OOP principles.
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)](https://developer.wordpress.org/) [![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=fff)](https://www.drupal.org/)  
-Exploring and developing with CMS platforms.  
-
-[![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=fff)](https://docs.oracle.com/en/database/oracle/oracle-database/index.html)  
-Strengthening database fundamentals while preparing for the Oracle Database SQL certification.
+Exploring CMS platforms.  
