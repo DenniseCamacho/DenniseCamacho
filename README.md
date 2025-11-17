@@ -22,11 +22,3 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)](https://help.figma.com/hc/en-us)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff)](https://helpx.adobe.com/support/xd.html)
 [![Balsamiq](https://img.shields.io/badge/Balsamiq-FF6600?logoColor=fff)](https://balsamiq.com/wireframes/)  
-
-<h2 align="left">Currently Learning:</h2>  
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](https://www.php.net/docs.php)  
-Expanding skills in back-end development through PHP and OOP principles.
-
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)](https://developer.wordpress.org/) [![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=fff)](https://www.drupal.org/)  
-Exploring CMS platforms.  
