@@ -1,5 +1,4 @@
 <br>Always learning.
-<br>Pursuing my Bachelor's in Computer & Information Science
   
 <h2 align="left">Languages and Technologies:</h2>  
 
